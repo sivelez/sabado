@@ -1,3 +1,3 @@
 function agregar(){
-	var nombre = prompt("ingresa tu nombre");
+	alert("hola como estas");
 }
