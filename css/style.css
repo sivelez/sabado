@@ -13,6 +13,13 @@
 	float: left;
 	margin-top: 5px;
 }
+.imagen{
+	width: 350px;
+	height: 350px;
+	background-image: url(../img/liverpool.jpg); 
+	float: left;
+	margin-top: 5px;
+}
 .pub{
 	width: 35%;
 	height: 400px;
